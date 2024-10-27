@@ -6,3 +6,4 @@
 </div>
 <hr>
 <p>"This model provides laptop price estimates based on the specific features selected by the user according to their wishlist, such as brand, type, CPU, RAM, GPU, operating system, weight, IPS/touchscreen functionality, and screen resolution."</p>
+<video src="demoVideoLpp.mp4"></video>
